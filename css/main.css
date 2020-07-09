@@ -9638,7 +9638,7 @@ body.restaurant .navigation button.navigation-btn[data-action="go-next-page"] sv
 /* line 30, ../sass/cospo/demos/_restaurant.scss */
 body.restaurant .navigation.open,
 body.restaurant .navigation .scales {
-  background-color: #646fa0 !important;
+  background-color: #000000 !important;
 }
 /* line 36, ../sass/cospo/demos/_restaurant.scss */
 body.restaurant .navigation .widget-overlay-bottom, body.restaurant .navigation .widget-overlay-top {
