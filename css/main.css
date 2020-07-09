@@ -9633,7 +9633,7 @@ body.restaurant .sign-in-page {
 }
 /* line 24, ../sass/cospo/demos/_restaurant.scss */
 body.restaurant .navigation button.navigation-btn[data-action="go-next-page"] svg path, body.restaurant .navigation button[data-action="go-next-page"].navigation-btn--show-message svg path {
-  fill: #646fa0;
+  fill: #000000;
 }
 /* line 30, ../sass/cospo/demos/_restaurant.scss */
 body.restaurant .navigation.open,
@@ -9642,11 +9642,11 @@ body.restaurant .navigation .scales {
 }
 /* line 36, ../sass/cospo/demos/_restaurant.scss */
 body.restaurant .navigation .widget-overlay-bottom, body.restaurant .navigation .widget-overlay-top {
-  background-color: #576397 !important;
+  background-color: #000000 !important;
 }
 /* line 43, ../sass/cospo/demos/_restaurant.scss */
 body.restaurant .navigation .widget-lang-overlay {
-  background-color: #7e87b0 !important;
+  background-color: #000000 !important;
 }
 /* line 49, ../sass/cospo/demos/_restaurant.scss */
 body.restaurant .restaurant-home-icons {
